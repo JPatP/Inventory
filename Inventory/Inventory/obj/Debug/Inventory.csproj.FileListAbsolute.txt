@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.exe
+c:\users\dell\documents\visual studio 2017\Projects\Inventory\Inventory\obj\Debug\Inventory.pdb
